@@ -1,0 +1,116 @@
+C:\Флудильня\Что-нибудь учебное\Сышарп\6lab\6lab\bin\Debug\net6.0\6lab.exe
+C:\Флудильня\Что-нибудь учебное\Сышарп\6lab\6lab\bin\Debug\net6.0\6lab.deps.json
+C:\Флудильня\Что-нибудь учебное\Сышарп\6lab\6lab\bin\Debug\net6.0\6lab.runtimeconfig.json
+C:\Флудильня\Что-нибудь учебное\Сышарп\6lab\6lab\bin\Debug\net6.0\6lab.dll
+C:\Флудильня\Что-нибудь учебное\Сышарп\6lab\6lab\bin\Debug\net6.0\6lab.pdb
+C:\Флудильня\Что-нибудь учебное\Сышарп\6lab\6lab\bin\Debug\net6.0\Humanizer.dll
+C:\Флудильня\Что-нибудь учебное\Сышарп\6lab\6lab\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Флудильня\Что-нибудь учебное\Сышарп\6lab\6lab\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Флудильня\Что-нибудь учебное\Сышарп\6lab\6lab\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Флудильня\Что-нибудь учебное\Сышарп\6lab\6lab\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Флудильня\Что-нибудь учебное\Сышарп\6lab\6lab\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Флудильня\Что-нибудь учебное\Сышарп\6lab\6lab\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Флудильня\Что-нибудь учебное\Сышарп\6lab\6lab\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Флудильня\Что-нибудь учебное\Сышарп\6lab\6lab\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Флудильня\Что-нибудь учебное\Сышарп\6lab\6lab\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Флудильня\Что-нибудь учебное\Сышарп\6lab\6lab\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Флудильня\Что-нибудь учебное\Сышарп\6lab\6lab\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Флудильня\Что-нибудь учебное\Сышарп\6lab\6lab\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Флудильня\Что-нибудь учебное\Сышарп\6lab\6lab\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Флудильня\Что-нибудь учебное\Сышарп\6lab\6lab\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Флудильня\Что-нибудь учебное\Сышарп\6lab\6lab\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Флудильня\Что-нибудь учебное\Сышарп\6lab\6lab\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Флудильня\Что-нибудь учебное\Сышарп\6lab\6lab\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Флудильня\Что-нибудь учебное\Сышарп\6lab\6lab\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Флудильня\Что-нибудь учебное\Сышарп\6lab\6lab\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Флудильня\Что-нибудь учебное\Сышарп\6lab\6lab\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Флудильня\Что-нибудь учебное\Сышарп\6lab\6lab\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Флудильня\Что-нибудь учебное\Сышарп\6lab\6lab\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Флудильня\Что-нибудь учебное\Сышарп\6lab\6lab\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Флудильня\Что-нибудь учебное\Сышарп\6lab\6lab\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Флудильня\Что-нибудь учебное\Сышарп\6lab\6lab\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Флудильня\Что-нибудь учебное\Сышарп\6lab\6lab\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Флудильня\Что-нибудь учебное\Сышарп\6lab\6lab\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Флудильня\Что-нибудь учебное\Сышарп\6lab\6lab\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Флудильня\Что-нибудь учебное\Сышарп\6lab\6lab\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Флудильня\Что-нибудь учебное\Сышарп\6lab\6lab\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Флудильня\Что-нибудь учебное\Сышарп\6lab\6lab\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Флудильня\Что-нибудь учебное\Сышарп\6lab\6lab\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Флудильня\Что-нибудь учебное\Сышарп\6lab\6lab\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Флудильня\Что-нибудь учебное\Сышарп\6lab\6lab\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Флудильня\Что-нибудь учебное\Сышарп\6lab\6lab\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Флудильня\Что-нибудь учебное\Сышарп\6lab\6lab\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Флудильня\Что-нибудь учебное\Сышарп\6lab\6lab\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Флудильня\Что-нибудь учебное\Сышарп\6lab\6lab\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Флудильня\Что-нибудь учебное\Сышарп\6lab\6lab\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Флудильня\Что-нибудь учебное\Сышарп\6lab\6lab\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Флудильня\Что-нибудь учебное\Сышарп\6lab\6lab\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Флудильня\Что-нибудь учебное\Сышарп\6lab\6lab\obj\Debug\net6.0\6lab.csproj.AssemblyReference.cache
+C:\Флудильня\Что-нибудь учебное\Сышарп\6lab\6lab\obj\Debug\net6.0\6lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Флудильня\Что-нибудь учебное\Сышарп\6lab\6lab\obj\Debug\net6.0\6lab.AssemblyInfoInputs.cache
+C:\Флудильня\Что-нибудь учебное\Сышарп\6lab\6lab\obj\Debug\net6.0\6lab.AssemblyInfo.cs
+C:\Флудильня\Что-нибудь учебное\Сышарп\6lab\6lab\obj\Debug\net6.0\6lab.csproj.CoreCompileInputs.cache
+C:\Флудильня\Что-нибудь учебное\Сышарп\6lab\6lab\obj\Debug\net6.0\6lab.csproj.CopyComplete
+C:\Флудильня\Что-нибудь учебное\Сышарп\6lab\6lab\obj\Debug\net6.0\6lab.dll
+C:\Флудильня\Что-нибудь учебное\Сышарп\6lab\6lab\obj\Debug\net6.0\refint\6lab.dll
+C:\Флудильня\Что-нибудь учебное\Сышарп\6lab\6lab\obj\Debug\net6.0\6lab.pdb
+C:\Флудильня\Что-нибудь учебное\Сышарп\6lab\6lab\obj\Debug\net6.0\6lab.genruntimeconfig.cache
+C:\Флудильня\Что-нибудь учебное\Сышарп\6lab\6lab\obj\Debug\net6.0\ref\6lab.dll
+C:\Users\Ilia\Desktop\6lab\6lab\bin\Debug\net6.0\6lab.exe
+C:\Users\Ilia\Desktop\6lab\6lab\bin\Debug\net6.0\6lab.deps.json
+C:\Users\Ilia\Desktop\6lab\6lab\bin\Debug\net6.0\6lab.runtimeconfig.json
+C:\Users\Ilia\Desktop\6lab\6lab\bin\Debug\net6.0\6lab.dll
+C:\Users\Ilia\Desktop\6lab\6lab\bin\Debug\net6.0\6lab.pdb
+C:\Users\Ilia\Desktop\6lab\6lab\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Ilia\Desktop\6lab\6lab\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Ilia\Desktop\6lab\6lab\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ilia\Desktop\6lab\6lab\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ilia\Desktop\6lab\6lab\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ilia\Desktop\6lab\6lab\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ilia\Desktop\6lab\6lab\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Ilia\Desktop\6lab\6lab\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Ilia\Desktop\6lab\6lab\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Ilia\Desktop\6lab\6lab\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ilia\Desktop\6lab\6lab\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ilia\Desktop\6lab\6lab\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ilia\Desktop\6lab\6lab\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Ilia\Desktop\6lab\6lab\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ilia\Desktop\6lab\6lab\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Ilia\Desktop\6lab\6lab\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Ilia\Desktop\6lab\6lab\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Ilia\Desktop\6lab\6lab\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ilia\Desktop\6lab\6lab\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ilia\Desktop\6lab\6lab\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ilia\Desktop\6lab\6lab\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ilia\Desktop\6lab\6lab\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ilia\Desktop\6lab\6lab\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ilia\Desktop\6lab\6lab\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Ilia\Desktop\6lab\6lab\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Ilia\Desktop\6lab\6lab\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ilia\Desktop\6lab\6lab\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Ilia\Desktop\6lab\6lab\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ilia\Desktop\6lab\6lab\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Ilia\Desktop\6lab\6lab\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Ilia\Desktop\6lab\6lab\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ilia\Desktop\6lab\6lab\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ilia\Desktop\6lab\6lab\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ilia\Desktop\6lab\6lab\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ilia\Desktop\6lab\6lab\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ilia\Desktop\6lab\6lab\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ilia\Desktop\6lab\6lab\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ilia\Desktop\6lab\6lab\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Ilia\Desktop\6lab\6lab\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Ilia\Desktop\6lab\6lab\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Ilia\Desktop\6lab\6lab\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ilia\Desktop\6lab\6lab\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Ilia\Desktop\6lab\6lab\obj\Debug\net6.0\6lab.csproj.AssemblyReference.cache
+C:\Users\Ilia\Desktop\6lab\6lab\obj\Debug\net6.0\6lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ilia\Desktop\6lab\6lab\obj\Debug\net6.0\6lab.AssemblyInfoInputs.cache
+C:\Users\Ilia\Desktop\6lab\6lab\obj\Debug\net6.0\6lab.AssemblyInfo.cs
+C:\Users\Ilia\Desktop\6lab\6lab\obj\Debug\net6.0\6lab.csproj.CoreCompileInputs.cache
+C:\Users\Ilia\Desktop\6lab\6lab\obj\Debug\net6.0\6lab.csproj.CopyComplete
+C:\Users\Ilia\Desktop\6lab\6lab\obj\Debug\net6.0\6lab.dll
+C:\Users\Ilia\Desktop\6lab\6lab\obj\Debug\net6.0\refint\6lab.dll
+C:\Users\Ilia\Desktop\6lab\6lab\obj\Debug\net6.0\6lab.pdb
+C:\Users\Ilia\Desktop\6lab\6lab\obj\Debug\net6.0\6lab.genruntimeconfig.cache
+C:\Users\Ilia\Desktop\6lab\6lab\obj\Debug\net6.0\ref\6lab.dll
